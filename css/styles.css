@@ -1,0 +1,37 @@
+@charset "utf-8";
+body {
+    background-image: url("../images/pngtree-summer-pure-white-flowers-background-material-poster-whiteflowerbackgroundpostermaterial-image_50131.jpg");
+	background-size: cover;
+	margin: 120px
+}
+.pink {
+	color: palevioletred;
+	text-align: center; 
+}
+#green {
+	color: darkgreen; 
+}
+body div p {
+    float: none;
+}
+body div p {
+    clear: both;
+}
+body div p {
+}
+.my-container {
+}
+#header {
+	text-align: center;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
+}
+.my-container {
+	border: dashed; 
+	border-color: palevioletred
+}
+.centered {
+	text-align: center;  
+}
+#pink-image {
+    background-image: url("../images/Color_rosa_palo.jpg");
+}
