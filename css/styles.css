@@ -50,3 +50,9 @@ div p {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 15px; 
 }
+.footer {
+	display: inline block;
+	background: white;
+	font-size: 12px;
+	text-align: center;
+}
