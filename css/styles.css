@@ -25,7 +25,7 @@ div p {
 	background: white;
 	font-size: 30px;
 	text-align: center;
-	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-family: "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
 }
 .my-container {
 	border: dashed; 
