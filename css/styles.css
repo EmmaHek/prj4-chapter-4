@@ -11,10 +11,10 @@ body {
 #green {
 	color: darkgreen; 
 }
-body div p {
+div p {
     float: none;
 }
-body div p {
+div p {
     clear: both;
 }
 body div p {
