@@ -1,9 +1,9 @@
-* { margin: 0; padding: 0; border: 0; font-size: 100%; }
 @charset "utf-8";
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
 body {
     background-image: url("../images/pngtree-summer-pure-white-flowers-background-material-poster-whiteflowerbackgroundpostermaterial-image_50131.jpg");
 	background-size: cover;
-	margin: 120px
 }
 .pink {
 	color: palevioletred;
@@ -18,21 +18,28 @@ div p {
 div p {
     clear: both;
 }
-body div p {
-}
 .my-container {
 }
 #header {
+	display: inline block;
+	background: white;
+	font-size: 30px;
 	text-align: center;
-	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
 }
 .my-container {
 	border: dashed; 
-	border-color: palevioletred
+	border-color: palevioletred;
+	margin-left: 100px;
+	margin-right: 100px;
 }
 .centered {
 	text-align: center;  
 }
 #pink-image {
     background-image: url("../images/Color_rosa_palo.jpg");
+}
+.margin-text {
+	margin-left: 100px;
+	margin-right: 100px;
 }
