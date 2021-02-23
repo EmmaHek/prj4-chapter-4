@@ -19,6 +19,8 @@ div p {
     clear: both;
 }
 .my-container {
+	margin-bottom: 20px;
+	margin-top: 20px;
 }
 #header {
 	display: inline block;
@@ -41,6 +43,8 @@ div p {
 .margin-text {
 	margin-left: 100px;
 	margin-right: 100px;
+	margin-bottom: 20px;
+	margin-top: 20px;
 }
 .font-family {
 	font-family: 'Open Sans', sans-serif;
