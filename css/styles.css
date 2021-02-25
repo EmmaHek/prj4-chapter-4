@@ -65,7 +65,7 @@ li {
 nav {
 	text-align: center; 
 }
-li {
+a {
 	color: green;
 	font-weight: bold;
 }
