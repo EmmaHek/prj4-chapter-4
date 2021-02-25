@@ -51,7 +51,7 @@ div p {
 	font-size: 15px; 
 }
 .footer {
-	display: inline block;
+	display: block;
 	background: white;
 	font-size: 12px;
 	text-align: center;
