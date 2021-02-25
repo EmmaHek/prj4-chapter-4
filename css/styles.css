@@ -23,7 +23,7 @@ div p {
 	margin-top: 20px;
 }
 #header {
-	display: inline block;
+	display: block;
 	background: white;
 	font-size: 30px;
 	text-align: center;
